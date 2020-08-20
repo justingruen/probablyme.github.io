@@ -1,0 +1,47 @@
+body {
+	width: 100%;
+	font-family: 'Roboto Mono', monospace;
+	color: #FFFFFF;
+	background: #2d2e32;
+}
+
+h2, h3 {
+	font-size: inherit;
+	font-weight: inherit;
+}
+
+h2, h3, p {
+	margin: 0;
+}
+
+.txt_title {
+	font-size: 1.875rem;
+	line-height: 1.375;
+}
+
+.flex {
+	display: flex;
+}
+
+.flex-wrap{
+	flex-wrap: wrap;
+}
+
+.justify-center {
+	justify-content: center;
+}
+
+.items-center {
+	align-items: center;
+}
+
+.p-6 {
+	padding: 1.5rem;
+}
+
+.gap-8 {
+	grid-gap: 2rem;
+	gap: 2rem;
+}
+
+
