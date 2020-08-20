@@ -31,6 +31,10 @@ h2, h3, p {
 	justify-content: center;
 }
 
+.justify-content {
+	justify-content: space-between;
+}
+
 .items-center {
 	align-items: center;
 }
