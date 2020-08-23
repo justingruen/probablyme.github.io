@@ -19,33 +19,3 @@ h2, h3, p {
 	line-height: 1.375;
 }
 
-.flex {
-	display: flex;
-}
-
-.flex-wrap{
-	flex-wrap: wrap;
-}
-
-.justify-center {
-	justify-content: center;
-}
-
-.justify-content {
-	justify-content: space-between;
-}
-
-.items-center {
-	align-items: center;
-}
-
-.p-6 {
-	padding: 1.5rem;
-}
-
-.gap-8 {
-	grid-gap: 2rem;
-	gap: 2rem;
-}
-
-
