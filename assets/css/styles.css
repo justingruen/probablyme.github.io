@@ -68,7 +68,7 @@ a:hover{
 	color: #67f3aa;
 }
 
-a:focus {
+*:focus {
 	outline: auto #FFFFFF 1px;
 }
 
