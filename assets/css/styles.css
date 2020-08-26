@@ -73,9 +73,10 @@ a:hover{
 }
 
 *:focus {
-	outline: auto #FFFFFF;
+	outline-color: #FFFFFF;
 	outline-offset: 1px;
 	outline-width: thin;
+	outline-style: auto;
 }
 
 
