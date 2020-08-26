@@ -69,7 +69,9 @@ a:hover{
 }
 
 *:focus {
-	outline: auto #FFFFFF 1px;
+	outline: auto #FFFFFF;
+	outline-offset: 1px;
+	outline-width: thin;
 }
 
 
